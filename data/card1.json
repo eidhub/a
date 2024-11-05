@@ -1,0 +1,38 @@
+[
+
+
+
+
+    {
+        "category": "card1",
+        "image": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Highlight-Copilot-Native-App-ROW:VP2-859x540",
+        "title": "عنوان البرنامج 1",
+        "text": "نص البرنامج 1",
+        "link": "http://example.com/1"
+    },
+    
+    
+    
+    {
+        "category": "card1",
+        "image": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Highlight-Copilot-Native-App-ROW:VP2-859x540",
+        "title": "عنوان البرنامج 2",
+        "text": "نص البرنامج 2",
+        "link": "http://example.com/2"
+    },
+    
+    {
+        "category": "card1",
+        "image": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Highlight-Copilot-Native-App-ROW:VP2-859x540",
+        "title": "عنوان البرنامج 2",
+        "text": "نص البرنامج 2",
+        "link": "http://example.com/2"
+    }
+    
+    
+    
+    
+    
+    
+    
+]
