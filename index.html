@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Under Construction</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            text-align: center;
+            padding: 20px; /* Added padding for small screens */
+        }
+        .message-container {
+            max-width: 600px; /* Set a max width for larger screens */
+            width: 100%; /* Allow it to be flexible */
+        }
+        .message-text {
+            font-size: 24px;
+            color: #333;
+            animation: pulse 1.5s infinite;
+        }
+        @keyframes pulse {
+            0%, 100% { transform: scale(1); }
+            50% { transform: scale(1.05); }
+        }
+        /* Responsive styles */
+        @media (max-width: 768px) {
+            .message-text {
+                font-size: 20px; /* Smaller font size for tablets */
+            }
+        }
+        @media (max-width: 480px) {
+            .message-text {
+                font-size: 18px; /* Smaller font size for phones */
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="message-container">
+        <div class="message-text">This site is currently under construction. Please check back later...</div>
+    </div>
+</body>
+</html>
